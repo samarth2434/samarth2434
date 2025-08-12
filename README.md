@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Raghav Agrawal</h1>
-<h3 align="center">🚀 Passionate Final-Year IT Student | Web Developer | AI/ML Data Science Enthusiast</h3>
+<h1 align="center">Hi 👋, I'm Samarth Gupta</h1>
+<h3 align="center">🚀 Passionate Final-Year CSE Student | Web Developer | AI/ML Data Science Enthusiast</h3>
 
 <img align="right" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coding" width="400" />
 
