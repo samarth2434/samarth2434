@@ -1,10 +1,10 @@
 <h1 align="center">Hi 👋, I'm Samarth Gupta</h1>
-<h3 align="center">🚀 Passionate Final-Year CSE Student | Web Developer | AI/ML Data Science Enthusiast</h3>
+<h3 align="center">🚀 Passionate Final-Year CSE Student | Web Developer </h3>
 
 <img align="right" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coding" width="400" />
 
 # 💫 About Me:
-🎓 Final-year Computer Science student at VIT BHOPAL<br>💻 Skilled in Fullstack Development using the MERN stack (MongoDB, Express.js, React, Node.js)<br>🧠 Strong problem-solving and algorithmic thinking skills<br>📚 Passionate about building scalable, efficient, and user-friendly applications<br>🌱 Constantly learning and exploring new technologies in web development
+🎓 Final-year Computer Science student at VIT BHOPAL<br>💻 Skilled in Fullstack Development using the MERN stack (java, SpringBoot, PostreSql, MongoDB, Express.js, React, Node.js)<br>🧠 Strong problem-solving and algorithmic thinking skills<br>📚 Passionate about building scalable, efficient, and user-friendly applications<br>🌱 Constantly learning and exploring new technologies in web development
 
 
 ## 🌐 Socials:
